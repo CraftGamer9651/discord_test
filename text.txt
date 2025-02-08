@@ -1,1 +1,14 @@
 this is a test to see if we did git init correctly
+
+Git commands:
+
+Unrequired:
+- git init
+- git remore add
+------------------
+- git clone - Copies repository
+- git add
+- git commit
+- git push
+- git pull
+- git status - Helps us know where we are at
